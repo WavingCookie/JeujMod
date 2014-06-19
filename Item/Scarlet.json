@@ -19,7 +19,7 @@
     "recipes":
     [{
         "items": { "Ruby": 1, "Gold Bar": 8, "Magic Essence": 1 },
-        "tiles": [ "Work Bench" ],
+        "tiles": [ "Anvil" ],
         "creates": 1
     }]
 }
