@@ -1,0 +1,21 @@
+{
+    "displayName": "Silver Dagger of Infinite",
+    "texture": "Item/Silver Dagger of Infinite",
+    "size": [32,32],
+    "magic": true,
+    "damage": 9,
+    "shoot": "jm:sdoi",
+    "animationTime": 30,
+    "useTime": 30,
+    "autoReuse": true,
+    "mana": 10,
+    "shootSpeed": 15,
+    "friendly": 1,
+    
+    "recipe":
+    [{
+        "items": { "Magic Essence": 1, "Silver Bar": 8, "Sapphire": 2 },
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}

@@ -1,0 +1,15 @@
+{
+    "displayName": "Magic Essence",
+    "texture": "Item/Magic Essence",
+    "tooltip": "You can't smoke it, sorry",
+    "size": [32,32],
+    "maxStack": 99,
+    "material": 1,
+    
+    "recipe":
+    [{
+        "items": { "Fallen Star": 2 },
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}
