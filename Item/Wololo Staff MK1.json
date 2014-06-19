@@ -1,0 +1,23 @@
+{
+    "displayName": "Wololo Staff MK1",
+    "texture": "Item/Wololo Staff MK1",
+    "size": [32,32],
+    "magic": true,
+    "damage": 7,
+    "tooltip": "Now i'm red, or am I blue...",
+    "shoot": "260",
+    "animationTime": 15,
+    "useTime": 15,
+    "autoReuse": true,
+    "mana": 5,
+    "useSound": "Wololo",
+    "shootSpeed": 15,
+    "friendly": 1,
+    
+    "recipe":
+    [{
+        "items": { "Magic Essence": 1, "Iron Bar": 6 },
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}

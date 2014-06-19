@@ -1,0 +1,25 @@
+{
+    "displayName": "Scarlet",
+    "texture": "Item/Scarlet",
+    "size": [48,48],
+    "maxStack": 1,
+    "value": [0, 1, 0, 0],
+    "tooltip": "What time is it ? It's Terraria Time !",
+    "useStyle": 1,
+    "useAnimation": 30,
+    "useTime": 30,
+    "damage": 15,
+    "knockback": 4,
+    "useSound": 1,
+    "autoReuse": true,
+    "useTurn": true,
+    "melee": true,
+    
+    
+    "recipes":
+    [{
+        "items": { "Ruby": 1, "Gold Bar": 8, "Magic Essence": 1 },
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}
